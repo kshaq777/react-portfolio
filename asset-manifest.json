@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7c62e5bb.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.8f8b3374.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.8f8b3374.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.07a1bd65.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.07a1bd65.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.06b0628c.chunk.js": "/react-portfolio/static/js/2.06b0628c.chunk.js",
+    "static/js/2.06b0628c.chunk.js.map": "/react-portfolio/static/js/2.06b0628c.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7c62e5bb.chunk.css.map": "/react-portfolio/static/css/main.7c62e5bb.chunk.css.map",
+    "static/js/2.06b0628c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.06b0628c.chunk.js.LICENSE.txt",
+    "static/media/coderhome.d964087d.png": "/react-portfolio/static/media/coderhome.d964087d.png",
+    "static/media/collabdevs.951d188f.png": "/react-portfolio/static/media/collabdevs.951d188f.png",
+    "static/media/ems_screenshot_dyn.d2d656ea.PNG": "/react-portfolio/static/media/ems_screenshot_dyn.d2d656ea.PNG",
+    "static/media/fitnesstracker_sc.ff66b847.PNG": "/react-portfolio/static/media/fitnesstracker_sc.ff66b847.PNG",
+    "static/media/fivewire_sc.a89311c4.PNG": "/react-portfolio/static/media/fivewire_sc.a89311c4.PNG",
+    "static/media/flightsavermap.f0ecb7d3.PNG": "/react-portfolio/static/media/flightsavermap.f0ecb7d3.PNG",
+    "static/media/kyle_headshot.b698d61d.jpg": "/react-portfolio/static/media/kyle_headshot.b698d61d.jpg",
+    "static/media/mdgen_sc.5fe3495e.PNG": "/react-portfolio/static/media/mdgen_sc.5fe3495e.PNG",
+    "static/media/portfoliocoder.81e0d450.png": "/react-portfolio/static/media/portfoliocoder.81e0d450.png",
+    "static/media/weather_dashboard_sc.fb5f6302.png": "/react-portfolio/static/media/weather_dashboard_sc.fb5f6302.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a1bd65.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.06b0628c.chunk.js",
+    "static/css/main.7c62e5bb.chunk.css",
+    "static/js/main.8f8b3374.chunk.js"
+  ]
+}
